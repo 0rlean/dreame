@@ -1,0 +1,127 @@
+{
+    "code": 0,
+    "data": {
+        "voices": [
+            {
+                "icon": "https://radioled.my1.ru/alice/alice.png",
+                "listen": "https://radioled.my1.ru/alice/listen.mp3",
+                "name": {
+                    "default": "Алиса"
+                },
+                "desc": {},
+                "download": "https://radioled.my1.ru/alice/alice.tgz",
+                "size": 3253638,
+                "id": "AL",
+                "md5sum": "fa76fa2b349d822782c5309faa0cb5da"
+            },
+            {
+                "icon": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2009/voices/icon/english.png",
+                "listen": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2028/voices/listen/7_en.mp3",
+                "name": {
+                    "default": "English"
+                },
+                "desc": {},
+                "download": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2028/voices/package/en.tar.gz",
+                "size": 3141098,
+                "id": "EN",
+                "md5sum": "3b8dfd7886fe462bc1fca3f3775dae37"
+            },
+            {
+                "icon": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2009/voices/icon/de.png",
+                "listen": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2028/voices/listen/7_deyu_dreame.mp3",
+                "name": {
+                    "default": "Deutsch"
+                },
+                "desc": {},
+                "download": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2028/voices/package/deyu_dreame.tar.gz",
+                "size": 5059218,
+                "id": "DE",
+                "md5sum": "3913b50de682c4bb6c79234a25947933"
+            },
+            {
+                "icon": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2009/voices/icon/ru.png",
+                "listen": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2028/voices/listen/7_eyu_dreame.mp3",
+                "name": {
+                    "default": "Pусский U"
+                },
+                "desc": {},
+                "download": "https://github.com/0rlean/dreame/raw/master/eyu_dreame.tar.gz",
+                "size": 4247212,
+                "id": "RU",
+                "md5sum": "d81fa4e9d19012a79ac56880992528dd"
+            },
+            {
+                "icon": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2009/voices/icon/fr.png",
+                "listen": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2028/voices/listen/7_fayu_dreame.mp3",
+                "name": {
+                    "default": "Français"
+                },
+                "desc": {},
+                "download": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2028/voices/package/fayu_dreame.tar.gz",
+                "size": 5135275,
+                "id": "FR",
+                "md5sum": "d113a1ab7b5acd4a36fa4c8a57184d6a"
+            },
+            {
+                "icon": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2009/voices/icon/ko.png",
+                "listen": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2028/voices/listen/7_hanyu_dreame.mp3",
+                "name": {
+                    "default": "한국어"
+                },
+                "desc": {},
+                "download": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2028/voices/package/hanyu_dreame.tar.gz",
+                "size": 4481909,
+                "id": "KO",
+                "md5sum": "8798e59edd54aa03b53c76c1ec2efa99"
+            },
+            {
+                "icon": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2009/voices/icon/es.png",
+                "listen": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2028/voices/listen/7_xibanya_dreame.mp3",
+                "name": {
+                    "default": "Español"
+                },
+                "desc": {},
+                "download": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2028/voices/package/xibanya_dreame.tar.gz",
+                "size": 4732676,
+                "id": "ES",
+                "md5sum": "c6d42f3a34dded8e9286d5a70d736bbc"
+            },
+            {
+                "icon": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2009/voices/icon/it.png",
+                "listen": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2028/voices/listen/7_yidali_dreame.mp3",
+                "name": {
+                    "default": "Italiano"
+                },
+                "desc": {},
+                "download": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2028/voices/package/yidali_dreame.tar.gz",
+                "size": 4757851,
+                "id": "IT",
+                "md5sum": "f9d45d5a2fad595883fb2f9c8e650451"
+            },
+            {
+                "icon": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2009/voices/icon/ja.png",
+                "listen": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2028/voices/listen/7_riyu_dreame.mp3",
+                "name": {
+                    "default": "日本語"
+                },
+                "desc": {},
+                "download": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2028/voices/package/riyu_dreame.tar.gz",
+                "size": 4514159,
+                "id": "JA",
+                "md5sum": "ad2e33c2ba678598756309f8ce317f7c"
+            },
+            {
+                "icon": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/resources/769be3308f1f73fa0ff808c4a4a19e10",
+                "listen": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/resources/4fae6996ecd6d5cfe526b32af4786ff4",
+                "name": {
+                    "default": "Polski"
+                },
+                "desc": {},
+                "download": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/resources/7888cd11dfec8bffa0bb7679633406ce",
+                "size": 5623466,
+                "id": "PL",
+                "md5sum": "7888cd11dfec8bffa0bb7679633406ce"
+            }
+        ]
+    }
+}
